@@ -45,7 +45,7 @@ export default function HomeScreen() {
 
       
 
-      <View style= {{ height: 375, backgroundColor: "skyblue" }}></View>
+      <View style= {{ height: 375}}></View>
 
       <View style= {{ backgroundColor: "darkorange" , height : 52, justifyContent: "center", alignItems: "flex-end", marginEnd:3, marginStart: 3}}>
         <Text style={{ fontSize : 25,  }} >ORANGE</Text>
